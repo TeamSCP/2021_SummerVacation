@@ -16,4 +16,4 @@
           - Grade_Name_Title.pdf 
 
   ### - 📕팀 프로젝트
-          - teamname.pdf
+          - Teamname.pdf
