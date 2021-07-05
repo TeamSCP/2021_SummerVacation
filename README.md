@@ -13,10 +13,12 @@
   ### ✅ File format
 
   ### - 📕개인 발표
-          - Grade_Name_Title.pdf 
+          - [학년]_[이름]_[제목].pdf 
+          - (ex. 1_홍길동_example.pdf)
 
   ### - 📕프로젝트
-          - Teamname.pdf
+          - [팀이름].pdf
+          - (ex. example.pdf)
 
   ### 📕 개인 발표 A팀(화요일)
   - 1_김민기
